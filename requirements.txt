@@ -1,0 +1,7 @@
+pandas
+python-pptx
+openpyxl
+watchdog
+pywin32
+pywin32
+pathlib
